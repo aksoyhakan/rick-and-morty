@@ -1,9 +1,9 @@
-This is a Rick and Morty Characters and Location UI projects which you can find all locations from Rick and Morty API. In addtion to this, you can find charaters whose status are determined in specific loaction which you can not filter from API.
+This is a Rick and Morty Characters and Location UI projects which you can find all locations from Rick and Morty API. In addition to this, you can find charaters whose status are determined in specific loaction which you can not filter from API.
 
 In case of starting project; first of all you should clone this project. After loading to your local repo; start with
 "npm install" to install all required packages.
 
-In following step; you should create .env file in the root folder. In order to get data from API, you should create the variable and value pair in the mentioned file just as "PUBLIC_API_URL=https://rickandmortyapi.com/api".
+In following step; you should create ".env" file in the root folder. In order to get data from API, you should create the variable and value pair in the mentioned file just as "PUBLIC_API_URL=https://rickandmortyapi.com/api".
 
 Following create and determine API URL successfully, you can write the code line which you can see below these paragraph to your terminal.
 
